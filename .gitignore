@@ -1,0 +1,12 @@
+shada/
+swap//
+undo//
+session/
+
+*.log
+*.tmp
+*.bak
+*~
+
+.DS_Store
+Thumbs.db
