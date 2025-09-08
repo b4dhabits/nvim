@@ -8,5 +8,9 @@ session/
 *.bak
 *~
 
+# Lazy.nvim generated files
+site/pack/
+pack/
+
 .DS_Store
 Thumbs.db
