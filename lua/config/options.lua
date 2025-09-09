@@ -11,7 +11,7 @@ opt.termguicolors = true
 opt.wrap = false
 opt.scrolloff = 8
 opt.sidescrolloff = 8
--- opt.showmode = false
+opt.showmode = false
 
 -- TABS & INDENTATION
 opt.expandtab = true -- convert tabs to spaces
